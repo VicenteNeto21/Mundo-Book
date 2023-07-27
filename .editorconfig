@@ -1,0 +1,18 @@
+# Exemplo de arquivo .editorconfig
+
+# Define a codificação de caracteres
+[*]
+charset = utf-8
+
+# Define o estilo de indentação
+[*.{js,jsx,ts,tsx,json,html,css,scss,md}]
+indent_style = space
+indent_size = 2
+
+# Remove espaços em branco ao final das linhas
+[*.{js,jsx,ts,tsx,html,css,scss}]
+trim_trailing_whitespace = true
+
+# Mantém uma linha vazia no final do arquivo
+[*.{js,jsx,ts,tsx,html,css,scss}]
+insert_final_newline = true
