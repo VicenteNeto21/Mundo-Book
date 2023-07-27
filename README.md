@@ -4,6 +4,10 @@
 
 O Mundo Book é uma aplicação mobile desenvolvida utilizando a API Expo, que permite aos usuários pesquisar e visualizar informações sobre diversos livros. A aplicação consome dados de um Web Service disponível na web e exibe os resultados em uma interface amigável e intuitiva.
 
+## API Usada
+- A aplicação utiliza a API da Algolia para buscar informações sobre os livros.
+- `https://hn.algolia.com/api/v1/search?query=chave`
+
 ## Funcionalidades
 
 - Pesquisar livros por título.
