@@ -1,9 +1,5 @@
 # Mundo Book - Sua Livraria Digital
 
-<div style="text-align: center;">
-  <img src="https://i.ibb.co/XDkWCfk/Screenshot-20230726-223501-Expo-Go.jpg" alt="Mundo Book" width="300">
-</div>
-
 ## Descrição do Projeto
 
 O Mundo Book é uma aplicação mobile desenvolvida utilizando a API Expo, que permite aos usuários pesquisar e visualizar informações sobre diversos livros. A aplicação consome dados de um Web Service disponível na web e exibe os resultados em uma interface amigável e intuitiva.
