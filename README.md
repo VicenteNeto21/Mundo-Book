@@ -6,7 +6,7 @@ O Mundo Book é uma aplicação mobile desenvolvida utilizando a API Expo, que p
 
 ## Funcionalidades
 
-- Pesquisar livros por título ou autor.
+- Pesquisar livros por título.
 - Visualizar detalhes de cada livro, incluindo título, autor, URL e avaliação (rating).
 - Classificar livros por avaliação (rating) de 1 a 5 estrelas.
 - Exibir uma mensagem amigável caso nenhum livro seja encontrado.
@@ -28,11 +28,9 @@ O Mundo Book é uma aplicação mobile desenvolvida utilizando a API Expo, que p
 
 ## Screenshots
 
-![Screenshot 1](https://i.ibb.co/XDkWCfk/Screenshot-20230726-223501-Expo-Go.jpg)
+![Screenshot 1](https://i.ibb.co/PYwGH7n/Screenshot-20230726-224944-Expo-Go.jpg)
 
-![Screenshot 2](https://i.ibb.co/PYwGH7n/Screenshot-20230726-224944-Expo-Go.jpg)
-
-![Screenshot 3](https://i.ibb.co/dMZm0wD/Screenshot-20230726-225058-Expo-Go.jpg)
+![Screenshot 2](https://i.ibb.co/dMZm0wD/Screenshot-20230726-225058-Expo-Go.jpg)
 
 ## Licença
 
